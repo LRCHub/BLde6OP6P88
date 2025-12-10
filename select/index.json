@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "星詠みの唄",
+  "base_artist": "Lir.E",
+  "createdAt": "2025-12-10T07:28:21.966469Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星詠みの唄",
+      "artist": "Lir.E",
+      "has_synced": false,
+      "path": "select/pl_01_星詠みの唄_Lir.E.txt"
+    }
+  ]
+}
